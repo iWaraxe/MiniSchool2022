@@ -9,8 +9,6 @@ import java.util.Optional;
 import static com.google.common.base.Preconditions.checkState;
 
 public class UserService {
-    // UserBaseInfoStorage
-    // UserDetailsStorage
     private final UserStorage userStorage;
     private final UserValidator userValidator;
 
@@ -37,4 +35,5 @@ public class UserService {
 
         return id;
     }
+
 }

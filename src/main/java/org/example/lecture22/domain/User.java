@@ -3,18 +3,13 @@ package org.example.lecture22.domain;
 public class User {
     public static final UserStatus DEFAULT_STATUS = UserStatus.ACTIVE;
     private String id;
-
     private final String userName;
     private String firstName;
     private String lastName;
-
     private Age age;
-
     private UserStatus status;
 
     //constructors
-
-
     public User(String username) {
         this.userName = username;
     }

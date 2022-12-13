@@ -9,7 +9,7 @@ public class Age {
     private static final Map<Integer, Age> poolOfAges = new HashMap<>();
     private final int value;
 
-    public Age(int value) {
+    private Age(int value) {
         Preconditions.checkArgument(value >= 0, "Age must be positive: " + value);
         Preconditions.checkArgument(value <= 125, "Age must be less than 126: " + value);
         this.value = value;

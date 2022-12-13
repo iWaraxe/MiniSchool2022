@@ -4,167 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a58faf46-d0c0-408e-958a-841f455eff52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture1/primitive/BooleanPrimitive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture1/primitive/ByteType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture1/primitive/CharType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture1/primitive/DoubleType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture1/primitive/FloatType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture1/primitive/IntegerType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture1/primitive/LongType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture1/primitive/ShortType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture10/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture10/quantumeffects/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture14/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture14/Condition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture14/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture15/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture15/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture15/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture15/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture15/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture16/Example10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture16/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture16/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture16/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture16/Example8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture16/Example9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p1builder/ex0/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p1builder/ex0/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p1builder/ex1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p1builder/ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p2factory/ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p2factory/ex1/Ship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p2factory/ex1/Transport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p2factory/ex1/TransportFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p2factory/ex1/Wagon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p2factory/ex2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p2factory/ex2/TransportFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p2factory/ex2/TransportType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p2factory/ex3/DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p2factory/ex3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p2factory/ex3/TransportFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p2factory/ex3/TransportType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p2factory/ex4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p2factory/ex4/TransportFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p2factory/ex4/TransportType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p3prototype/ex1/Bmw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p3prototype/ex1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p3prototype/ex1/Kia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p3prototype/ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p4singleton/ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture17/t1creational/p4singleton/ex1/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p1state/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p1state/DriveState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p1state/LockedState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p1state/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p1state/StartState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p1state/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p2strategy/ChristmasDiscounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p2strategy/Discounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p2strategy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p2strategy/ValentineDayDiscounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p3observer/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p3observer/Observable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p3observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p3observer/WeatherData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p3observer/WeatherDataCenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p3observer/WeatherDataReceiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p4chainofresponsibilities/StoreApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p4chainofresponsibilities/handlers/BaseHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p4chainofresponsibilities/handlers/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p4chainofresponsibilities/handlers/ListOfProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p4chainofresponsibilities/handlers/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p4chainofresponsibilities/handlers/Quit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p4chainofresponsibilities/handlers/SortedListOfProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture18/t3behavioral/p4chainofresponsibilities/handlers/Top5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture19/lombok/Age.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture19/lombok/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture19/lombok/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture19/lombok/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture19/lombok/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture19/threads/ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture19/threads/ex2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture19/threads/ex3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture19/threads/ex4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture19/threads/ex5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture19/threads/ex6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture2/ex1/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture2/ex1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture2/ex1/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture2/ex2/AdminUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture2/ex2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture2/ex2/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture2/ex2/UserFileService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture20/module1/ex1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture20/module1/ex2/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture20/module1/ex3/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture20/module1/ex4/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture20/module2/ex1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture20/module2/ex2/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture21/module2/ex3/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture21/module2/ex4/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture21/module2/ex5/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture21/module3/ex1/StopThreadBroken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture21/module3/ex1/StopThreadFixed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture21/module3/ex1/StopThreadPartial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture21/module3/ex1/StopThreadVolatile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture21/module3/ex2/ForwardingSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture21/module3/ex2/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture21/module3/ex2/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture21/module3/ex2/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture21/module3/ex2/ObservableSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture21/module3/ex2/SetObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture22/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture22/domain/Age.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture22/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture22/domain/UserStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture22/domain/UserUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture22/persistence/UserStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture22/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture22/service/UserValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture3/Age.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture3/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture3/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture3/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture3/UserUpdateService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture4/Age.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture4/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture4/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture4/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture4/UserStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture4/UserStatusLegacy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture4/WeekDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture5/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture5/user/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture5/user/Age.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture5/user/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture5/user/UserStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture5/user/UserStatusLegacy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture6/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture6/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture7/Age.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture7/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture7/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture7/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture7/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture7/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture8/BMW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture8/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture8/KIA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture8/Mercedes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture9/Age.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture9/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture9/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ThreadSafety.txt" afterDir="false" />
+    <list default="true" id="a58faf46-d0c0-408e-958a-841f455eff52" name="Changes" comment="Whole Project">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lecture22/data/UserTestSamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lecture22/persistence/UserStorageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lecture22/service/UserServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/lecture22/domain/Age.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture22/domain/Age.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/lecture22/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture22/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/lecture22/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/lecture22/service/UserService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,38 +55,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "full.screen.before.presentation.mode": "true",
-    "last_opened_file_path": "/Users/igorwaraxe/JAVA/JAVA/Explain/03.OOP/MiniSchool",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/igorwaraxe/JAVA/JAVA/Explain/03.OOP/MiniSchool&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="org.example.lecture22.persistence" />
       <recent name="org.example.lecture22.service" />
+      <recent name="org.example.lecture22.persistence" />
       <recent name="org.example.lecture22.presistence" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.UserServiceTest">
+    <configuration name="All in MiniSchool" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MiniSchool" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MiniSchool" />
       <extension name="coverage">
@@ -271,6 +126,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserServiceTest.createUser_invalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MiniSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lecture22.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.lecture22.service" />
+      <option name="MAIN_CLASS_NAME" value="org.example.lecture22.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="createUser_invalid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UserServiceTest.createUser_userNameIsBusy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MiniSchool" />
       <extension name="coverage">
@@ -287,42 +158,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserStorageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MiniSchool" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.lecture22.persistence.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example.lecture22.persistence" />
-      <option name="MAIN_CLASS_NAME" value="org.example.lecture22.persistence.UserStorageTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="org.example.lecture22 in MiniSchool" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MiniSchool" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.lecture22.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example.lecture22" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.UserServiceTest" />
-        <item itemvalue="JUnit.org.example.lecture22 in MiniSchool" />
         <item itemvalue="JUnit.UserServiceTest.createUser" />
+        <item itemvalue="JUnit.UserServiceTest.createUser_invalid" />
         <item itemvalue="JUnit.UserServiceTest.createUser_userNameIsBusy" />
-        <item itemvalue="JUnit.UserStorageTest" />
+        <item itemvalue="JUnit.All in MiniSchool" />
       </list>
     </recent_temporary>
   </component>
@@ -415,8 +257,19 @@
       <workItem from="1670492919384" duration="4000" />
       <workItem from="1670498910017" duration="13833000" />
       <workItem from="1670685880259" duration="1329000" />
-      <workItem from="1670848051851" duration="5214000" />
+      <workItem from="1670848051851" duration="6264000" />
+      <workItem from="1670859386046" duration="8315000" />
+      <workItem from="1670883813741" duration="676000" />
+      <workItem from="1670920399039" duration="12000" />
     </task>
+    <task id="LOCAL-00001" summary="Whole Project">
+      <created>1670855525178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670855525178</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,6 +300,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Whole Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Whole Project" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
